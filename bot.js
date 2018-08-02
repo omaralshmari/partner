@@ -178,16 +178,16 @@ client.on('message', message => {
                     Welcome
 ╚[❖════════════❖]╝
 
-to enable welcome message do channel name "wlc"
+to enable welcome message do channel name "chat"
 
 
 ==================================================================
 
-Server support: https://discord.gg/twdHNJT
+Server support: https://discord.gg/JjED3VR
 
 ==================================================================
 
-bot invite link: https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
+bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=474676843757305856&permissions=8&scope=bot
 
 ==================================================================
 
@@ -268,13 +268,13 @@ client.on('message', message => {
                       الترحيب
 ╚[❖════════════❖]╝
 
-لتفعيل خاصية الترحيب قم بعمل قناة اسمها "wlc"
+لتفعيل خاصية الترحيب قم بعمل قناة اسمها "chat"
 
 ==================================================================
 
-Server support: https://discord.gg/twdHNJT
+Server support: https://discord.gg/JjED3VR
 
-bot invite link: https://discordapp.com/oauth2/authorize?client_id=388700863893602304&scope=bot&permissions=0
+bot invite link: https://discordapp.com/api/oauth2/authorize?client_id=474676843757305856&permissions=8&scope=bot
 
 ==================================================================
 
