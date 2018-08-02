@@ -833,8 +833,7 @@ client.on('message', message => {
 message.channel.sendMessage('**الرجاء الانتظار ريث ما يتم صناعه الرتب **')
 }
 });
-const Discord = require('discord.js');
-const client = new Discord.Client();
+
 client.on('message', message => {
     if (message.content === "+serooms") {
      if(!message.channel.guild) return message.channel.send('**This Command Only For Servers !**')
